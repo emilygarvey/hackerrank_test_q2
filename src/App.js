@@ -16,16 +16,16 @@ let colorsArray = [
 ];
 
 export function ColorList(props) {
-  return (
+   
 
 
-  );
+  
 };
 
 function App() {
-  return (
+   
 
-  );
+  
 };
 
 export { colorsArray };
